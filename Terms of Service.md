@@ -1,8 +1,8 @@
-# Terms of Service — Town Hall Helper
+# Terms of Service — Town Warden
 
 **Last updated:** September 8, 2026
 
-By adding or using Town Hall Helper ("the Bot") in a Discord server, you agree to these Terms of Service. If you do not agree, do not use the Bot.
+By adding or using Town Warden ("the Bot") in a Discord server, you agree to these Terms of Service. If you do not agree, do not use the Bot.
 
 ## 1. Use of the Bot
 
@@ -39,4 +39,4 @@ We may update these Terms at any time. Continued use of the Bot after changes ar
 
 ## 8. Contact
 
-Questions about these Terms can be sent to: **Dm Bot. Bot dm's acts as support main**
+Questions about these Terms can be sent to: **[your email or support server link here]**
