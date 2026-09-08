@@ -1,8 +1,8 @@
-# Privacy Policy — Town Hall Helper
+# Privacy Policy — Town Warden
 
 **Last updated:** September 8, 2026
 
-This Privacy Policy explains what information Town Hall Helper ("the Bot") collects and how it is used. By adding or using the Bot in a Discord server, you agree to this policy.
+This Privacy Policy explains what information Town Warden ("the Bot") collects and how it is used. By adding or using the Bot in a Discord server, you agree to this policy.
 
 ## 1. Information We Collect
 
@@ -49,7 +49,7 @@ The Bot is not directed at children under 13. If you believe a child has provide
 
 ## 8. Contact
 
-For privacy questions or data requests, contact: **DM Bot. Bot act as Support mail.**
+For privacy questions or data requests, contact: **[your email or support server link here]**
 
 ## 9. Changes to This Policy
 
